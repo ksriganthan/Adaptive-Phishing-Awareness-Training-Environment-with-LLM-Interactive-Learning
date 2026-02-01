@@ -54,7 +54,7 @@ IEEE Xplore: https://ieeexplore.ieee.org/document/11212360
 
 This project exists in **three evolutionary stages**:
 
-### Version 1 – Initial Proof of Concept (This Repository)
+### Version 1 – Initial Proof of Concept
 - Rule-based chatbot (intents.json)
 - Flask backend
 - Simulated website environment
