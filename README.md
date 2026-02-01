@@ -1,4 +1,4 @@
-# Awareness Training System against Phishing with LLM
+# An Adaptive Phishing Awareness Training Environment Based on LLMs and Interactive Learning
 
 # PhishingChatbot – CyberPhil  
 AI-based Phishing Awareness Training (Proof of Concept → Research Prototype)
