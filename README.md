@@ -66,7 +66,7 @@ https://gitlab.fhnw.ch/kapischan.sriganthan/phishingchatbot.git
 
 ---
 
-### Version 2 – Improved Design (Paper Submission Version)
+### Version 2 – Improved Design (Paper Pre-Submission Version)
 - UI/UX improvements
 - Refined phishing scenarios
 - Better visual integration of the chatbot
