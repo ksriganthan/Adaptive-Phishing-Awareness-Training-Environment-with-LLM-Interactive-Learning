@@ -61,8 +61,7 @@ This project exists in **three evolutionary stages**:
 - Static phishing scenarios
 - Focus: **feasibility & interaction flow**
 
-📌 Stored on FHNW GitLab due to storage and project constraints:  
-https://gitlab.fhnw.ch/kapischan.sriganthan/phishingchatbot.git
+📌 Archived in the private repository `ksriganthan/phishingchatbot`. Available on request.
 
 ---
 
@@ -72,8 +71,7 @@ https://gitlab.fhnw.ch/kapischan.sriganthan/phishingchatbot.git
 - Better visual integration of the chatbot
 - Adapted for academic paper submission and demonstration
 
-📌 Stored on FHNW GitLab due to storage and project constraints:  
-https://gitlab.fhnw.ch/kapischan.sriganthan/tobit_poc.git
+📌 Archived in the private repository `ksriganthan/tobit_poc`. Available on request.
 
 ---
 
@@ -188,8 +186,7 @@ Dieses Projekt existiert in **drei Entwicklungsstufen**:
 - Statische Phishing-Szenarien
 - Fokus: **Machbarkeit & Interaktionsfluss**
 
-📌 Gespeichert auf FHNW GitLab aufgrund von Speicher- und Projektbeschränkungen:  
-https://gitlab.fhnw.ch/kapischan.sriganthan/phishingchatbot.git
+📌 Archiviert im privaten Repository `ksriganthan/phishingchatbot`. Auf Anfrage gebe ich Einsicht.
 
 ---
 
@@ -199,8 +196,7 @@ https://gitlab.fhnw.ch/kapischan.sriganthan/phishingchatbot.git
 - Bessere visuelle Integration des Chatbots
 - Angepasst für Einreichung und Demonstration der wissenschaftlichen Arbeit
 
-📌 Gespeichert auf FHNW GitLab aufgrund von Speicher- und Projektbeschränkungen:  
-https://gitlab.fhnw.ch/kapischan.sriganthan/tobit_poc.git
+📌 Archiviert im privaten Repository `ksriganthan/tobit_poc`. Auf Anfrage gebe ich Einsicht.
 
 ---
 
